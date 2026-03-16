@@ -1,6 +1,6 @@
 {
   "name": "wechat2all",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Local-first macOS gateway that turns one WeChat chat into a command center for AI assistants, Routes, and local tools.",
   "main": "src/index.ts",
   "scripts": {
